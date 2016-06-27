@@ -1,0 +1,9 @@
+<resources>
+    <string name="str_management_to_permission">앱 권한 관리</string>
+    <string name="str_information_management_to_permission">안드로이드 6.0 부터 사용자가 직접 실시간으로 앱 권한을 관리 할 수 있는 새로운 권한 모델이 소개 되었습니다.
+사용자는 설치 된 앱에 대하여 개별적으로 권한을 거부/허용 할 수 있습니다</string>
+    <string name="str_rational_message">아래 목록은 이전에 권한 요청 팝업창에서 거부 된 권한들의 목록입니다. 이 권한들은 앱 서비스 이용에 필요하고, 권한 획득을 위해 최종적으로 사용자가 직접
+     권한을 수락 해야 합니다. 각 권한 정보를 읽어보고 "확인" 버튼을 누르면 다시 권한 요청 화면을 실행합니다. </string>
+    <string name="str_permissions_denied">권한이 거부 되었습니다</string>
+    <string name="str_setting">설정</string>
+</resources>
